@@ -70,14 +70,11 @@ p {
   border: thin solid black;
 }
 .banner-image {
-  display: inline-flex;
+  border: thin solid black;
+  width: 60%;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
 }
 .banner-image {
-  width: 60%;
-}
-.banner-text {
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  border: thin solid black;
+  width: 100%;
 }
